@@ -1,0 +1,57 @@
+[
+  {
+    "feature": "typingSpeed",
+    "min": 0.0,
+    "max": 1000.0
+  },
+  {
+    "feature": "backspaceCount",
+    "min": 0.0,
+    "max": 301.0
+  },
+  {
+    "feature": "typedCharCount",
+    "min": 0.0,
+    "max": 1.0
+  },
+  {
+    "feature": "swipeVelocity",
+    "min": 0.0,
+    "max": 3.0158957994180026e-06
+  },
+  {
+    "feature": "pressure",
+    "min": 0.0,
+    "max": 1.0
+  },
+  {
+    "feature": "size",
+    "min": 0.0,
+    "max": 1.0099999904632568
+  },
+  {
+    "feature": "x",
+    "min": -9.0,
+    "max": 729.5
+  },
+  {
+    "feature": "y",
+    "min": 0.0,
+    "max": 1495.0
+  },
+  {
+    "feature": "sensor_0",
+    "min": -18.900001525878906,
+    "max": 2.8687500953674316
+  },
+  {
+    "feature": "sensor_1",
+    "min": -43.743751525878906,
+    "max": 6.507143974304199
+  },
+  {
+    "feature": "sensor_2",
+    "min": -28.537500381469727,
+    "max": 10.867050170898438
+  }
+]

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "97174886153",
+    "project_id": "behavior-data-6fd77",
+    "storage_bucket": "behavior-data-6fd77.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:97174886153:android:9212ff64af75cbace9a5d8",
+        "android_client_info": {
+          "package_name": "com.example.bank_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDIXugDkdL6b3wYhXCrA0plqyf2y1qo5EY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
